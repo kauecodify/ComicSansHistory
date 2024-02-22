@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #b8cad4;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header img {
+    max-width: center;
+    text-align: center;
+    border-image: center;
+
+}
+
+header h1 {
+    margin-top: 10px;
+    font-size: 2em;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+section h2 {
+    color: #007bff;
+    text-align: center;
+}
+
+footer {
+    background-color: #b8cad4;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: center;
+    bottom: 0;
+    width: 100%;
+}
